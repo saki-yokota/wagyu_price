@@ -40,6 +40,7 @@ p {
   justify-content: center;
 }
 
+
 @media screen and (min-width:576px) {
   .row {
     margin-bottom: 30px;
